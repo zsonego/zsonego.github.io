@@ -1,49 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>DaraW</title>
+  <title>Timeless</title>
   
   <subtitle>Code is Poetry</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://blog.daraw.cn/"/>
-  <updated>2022-11-26T00:59:06.751Z</updated>
-  <id>https://blog.daraw.cn/</id>
+  <link href="https://zsonego.github.io/"/>
+  <updated>2022-11-25T22:48:43.702Z</updated>
+  <id>https://zsonego.github.io/</id>
   
   <author>
-    <name>DaraW</name>
+    <name>Timeless</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>myTest</title>
-    <link href="https://blog.daraw.cn/2022/11/26/myTest/"/>
-    <id>https://blog.daraw.cn/2022/11/26/myTest/</id>
-    <published>2022-11-26T00:58:21.000Z</published>
-    <updated>2022-11-26T00:59:06.751Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="hello-world"><a href="#hello-world" class="headerlink" title="hello world"></a>hello world</h1><blockquote><p>这是一个测试内容</p></blockquote>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;hello-world&quot;&gt;&lt;a href=&quot;#hello-world&quot; class=&quot;headerlink&quot; title=&quot;hello world&quot;&gt;&lt;/a&gt;hello world&lt;/h1&gt;&lt;blockquote&gt;
-&lt;p&gt;这是一个测试内容&lt;/p&gt;
-&lt;/blockq
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>GMTC 北京 2021 小程序开发实践专场所见所想</title>
-    <link href="https://blog.daraw.cn/2021/08/06/gmtc-beijing-2021-mp/"/>
-    <id>https://blog.daraw.cn/2021/08/06/gmtc-beijing-2021-mp/</id>
+    <link href="https://zsonego.github.io/2021/08/06/gmtc-beijing-2021-mp/"/>
+    <id>https://zsonego.github.io/2021/08/06/gmtc-beijing-2021-mp/</id>
     <published>2021-08-06T03:06:00.000Z</published>
     <updated>2022-11-25T22:48:43.702Z</updated>
     
@@ -63,23 +39,23 @@
     </summary>
     
     
-      <category term="前端" scheme="https://blog.daraw.cn/categories/%E5%89%8D%E7%AB%AF/"/>
+      <category term="前端" scheme="https://zsonego.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="React" scheme="https://blog.daraw.cn/tags/React/"/>
+      <category term="React" scheme="https://zsonego.github.io/tags/React/"/>
     
-      <category term="Taro" scheme="https://blog.daraw.cn/tags/Taro/"/>
+      <category term="Taro" scheme="https://zsonego.github.io/tags/Taro/"/>
     
-      <category term="GMTC" scheme="https://blog.daraw.cn/tags/GMTC/"/>
+      <category term="GMTC" scheme="https://zsonego.github.io/tags/GMTC/"/>
     
-      <category term="小程序" scheme="https://blog.daraw.cn/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+      <category term="小程序" scheme="https://zsonego.github.io/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
     
   </entry>
   
   <entry>
     <title>从一次 Bug 定位来看 Taro H5 的组件实现</title>
-    <link href="https://blog.daraw.cn/2021/04/21/taro-h5-components/"/>
-    <id>https://blog.daraw.cn/2021/04/21/taro-h5-components/</id>
+    <link href="https://zsonego.github.io/2021/04/21/taro-h5-components/"/>
+    <id>https://zsonego.github.io/2021/04/21/taro-h5-components/</id>
     <published>2021-04-21T10:28:00.000Z</published>
     <updated>2022-11-25T22:48:43.711Z</updated>
     
@@ -93,19 +69,19 @@
     </summary>
     
     
-      <category term="前端" scheme="https://blog.daraw.cn/categories/%E5%89%8D%E7%AB%AF/"/>
+      <category term="前端" scheme="https://zsonego.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="React" scheme="https://blog.daraw.cn/tags/React/"/>
+      <category term="React" scheme="https://zsonego.github.io/tags/React/"/>
     
-      <category term="Taro" scheme="https://blog.daraw.cn/tags/Taro/"/>
+      <category term="Taro" scheme="https://zsonego.github.io/tags/Taro/"/>
     
   </entry>
   
   <entry>
     <title>浅谈 B 站新 BV 号的设计</title>
-    <link href="https://blog.daraw.cn/2020/03/25/bv-av-idgen/"/>
-    <id>https://blog.daraw.cn/2020/03/25/bv-av-idgen/</id>
+    <link href="https://zsonego.github.io/2020/03/25/bv-av-idgen/"/>
+    <id>https://zsonego.github.io/2020/03/25/bv-av-idgen/</id>
     <published>2020-03-25T10:00:00.000Z</published>
     <updated>2022-11-25T22:48:43.698Z</updated>
     
@@ -118,19 +94,19 @@
     </summary>
     
     
-      <category term="系统设计" scheme="https://blog.daraw.cn/categories/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/"/>
+      <category term="系统设计" scheme="https://zsonego.github.io/categories/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/"/>
     
     
-      <category term="ID生成器" scheme="https://blog.daraw.cn/tags/ID%E7%94%9F%E6%88%90%E5%99%A8/"/>
+      <category term="ID生成器" scheme="https://zsonego.github.io/tags/ID%E7%94%9F%E6%88%90%E5%99%A8/"/>
     
-      <category term="哈希" scheme="https://blog.daraw.cn/tags/%E5%93%88%E5%B8%8C/"/>
+      <category term="哈希" scheme="https://zsonego.github.io/tags/%E5%93%88%E5%B8%8C/"/>
     
   </entry>
   
   <entry>
     <title>复盘：Vue.js 是如何成功的</title>
-    <link href="https://blog.daraw.cn/2020/02/27/vuejs-review/"/>
-    <id>https://blog.daraw.cn/2020/02/27/vuejs-review/</id>
+    <link href="https://zsonego.github.io/2020/02/27/vuejs-review/"/>
+    <id>https://zsonego.github.io/2020/02/27/vuejs-review/</id>
     <published>2020-02-26T16:10:00.000Z</published>
     <updated>2022-11-25T22:48:43.715Z</updated>
     
@@ -144,17 +120,17 @@
     </summary>
     
     
-      <category term="前端" scheme="https://blog.daraw.cn/categories/%E5%89%8D%E7%AB%AF/"/>
+      <category term="前端" scheme="https://zsonego.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="Vue.js" scheme="https://blog.daraw.cn/tags/Vue-js/"/>
+      <category term="Vue.js" scheme="https://zsonego.github.io/tags/Vue-js/"/>
     
   </entry>
   
   <entry>
     <title>你可能不知道的 Git</title>
-    <link href="https://blog.daraw.cn/2019/12/21/you-dont-know-git/"/>
-    <id>https://blog.daraw.cn/2019/12/21/you-dont-know-git/</id>
+    <link href="https://zsonego.github.io/2019/12/21/you-dont-know-git/"/>
+    <id>https://zsonego.github.io/2019/12/21/you-dont-know-git/</id>
     <published>2019-12-21T12:56:00.000Z</published>
     <updated>2022-11-25T22:48:43.716Z</updated>
     
@@ -170,19 +146,19 @@
     </summary>
     
     
-      <category term="软件工程" scheme="https://blog.daraw.cn/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/"/>
+      <category term="软件工程" scheme="https://zsonego.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/"/>
     
     
-      <category term="Git" scheme="https://blog.daraw.cn/tags/Git/"/>
+      <category term="Git" scheme="https://zsonego.github.io/tags/Git/"/>
     
-      <category term="版本控制" scheme="https://blog.daraw.cn/tags/%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/"/>
+      <category term="版本控制" scheme="https://zsonego.github.io/tags/%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/"/>
     
   </entry>
   
   <entry>
     <title>React 应用性能优化一例</title>
-    <link href="https://blog.daraw.cn/2019/07/02/react-performence/"/>
-    <id>https://blog.daraw.cn/2019/07/02/react-performence/</id>
+    <link href="https://zsonego.github.io/2019/07/02/react-performence/"/>
+    <id>https://zsonego.github.io/2019/07/02/react-performence/</id>
     <published>2019-07-02T13:26:00.000Z</published>
     <updated>2022-11-25T22:48:43.710Z</updated>
     
@@ -198,17 +174,17 @@
     </summary>
     
     
-      <category term="前端" scheme="https://blog.daraw.cn/categories/%E5%89%8D%E7%AB%AF/"/>
+      <category term="前端" scheme="https://zsonego.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="React" scheme="https://blog.daraw.cn/tags/React/"/>
+      <category term="React" scheme="https://zsonego.github.io/tags/React/"/>
     
   </entry>
   
   <entry>
     <title>Thrift RPC Mock 方案探索</title>
-    <link href="https://blog.daraw.cn/2019/06/12/thrift-rpc-mock/"/>
-    <id>https://blog.daraw.cn/2019/06/12/thrift-rpc-mock/</id>
+    <link href="https://zsonego.github.io/2019/06/12/thrift-rpc-mock/"/>
+    <id>https://zsonego.github.io/2019/06/12/thrift-rpc-mock/</id>
     <published>2019-06-12T03:53:00.000Z</published>
     <updated>2022-11-25T22:48:43.713Z</updated>
     
@@ -224,23 +200,23 @@
     </summary>
     
     
-      <category term="服务端" scheme="https://blog.daraw.cn/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+      <category term="服务端" scheme="https://zsonego.github.io/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
     
     
-      <category term="RPC" scheme="https://blog.daraw.cn/tags/RPC/"/>
+      <category term="RPC" scheme="https://zsonego.github.io/tags/RPC/"/>
     
-      <category term="Thrift" scheme="https://blog.daraw.cn/tags/Thrift/"/>
+      <category term="Thrift" scheme="https://zsonego.github.io/tags/Thrift/"/>
     
-      <category term="Mock" scheme="https://blog.daraw.cn/tags/Mock/"/>
+      <category term="Mock" scheme="https://zsonego.github.io/tags/Mock/"/>
     
-      <category term="Node.js" scheme="https://blog.daraw.cn/tags/Node-js/"/>
+      <category term="Node.js" scheme="https://zsonego.github.io/tags/Node-js/"/>
     
   </entry>
   
   <entry>
     <title>前端视频质量监控</title>
-    <link href="https://blog.daraw.cn/2018/09/07/video-quality-monitor/"/>
-    <id>https://blog.daraw.cn/2018/09/07/video-quality-monitor/</id>
+    <link href="https://zsonego.github.io/2018/09/07/video-quality-monitor/"/>
+    <id>https://zsonego.github.io/2018/09/07/video-quality-monitor/</id>
     <published>2018-09-06T16:10:00.000Z</published>
     <updated>2022-11-25T22:48:43.714Z</updated>
     
@@ -253,19 +229,19 @@
     </summary>
     
     
-      <category term="前端" scheme="https://blog.daraw.cn/categories/%E5%89%8D%E7%AB%AF/"/>
+      <category term="前端" scheme="https://zsonego.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="视频" scheme="https://blog.daraw.cn/tags/%E8%A7%86%E9%A2%91/"/>
+      <category term="视频" scheme="https://zsonego.github.io/tags/%E8%A7%86%E9%A2%91/"/>
     
-      <category term="质量监控" scheme="https://blog.daraw.cn/tags/%E8%B4%A8%E9%87%8F%E7%9B%91%E6%8E%A7/"/>
+      <category term="质量监控" scheme="https://zsonego.github.io/tags/%E8%B4%A8%E9%87%8F%E7%9B%91%E6%8E%A7/"/>
     
   </entry>
   
   <entry>
     <title>前端函数式编程</title>
-    <link href="https://blog.daraw.cn/2017/08/16/fp-with-fe/"/>
-    <id>https://blog.daraw.cn/2017/08/16/fp-with-fe/</id>
+    <link href="https://zsonego.github.io/2017/08/16/fp-with-fe/"/>
+    <id>https://zsonego.github.io/2017/08/16/fp-with-fe/</id>
     <published>2017-08-16T14:19:15.000Z</published>
     <updated>2022-11-25T22:48:43.700Z</updated>
     
@@ -278,21 +254,21 @@
     </summary>
     
     
-      <category term="FP" scheme="https://blog.daraw.cn/categories/FP/"/>
+      <category term="FP" scheme="https://zsonego.github.io/categories/FP/"/>
     
     
-      <category term="FP" scheme="https://blog.daraw.cn/tags/FP/"/>
+      <category term="FP" scheme="https://zsonego.github.io/tags/FP/"/>
     
-      <category term="React" scheme="https://blog.daraw.cn/tags/React/"/>
+      <category term="React" scheme="https://zsonego.github.io/tags/React/"/>
     
-      <category term="Redux" scheme="https://blog.daraw.cn/tags/Redux/"/>
+      <category term="Redux" scheme="https://zsonego.github.io/tags/Redux/"/>
     
   </entry>
   
   <entry>
     <title>多说一句再见</title>
-    <link href="https://blog.daraw.cn/2017/03/23/goodbye-duoshuo/"/>
-    <id>https://blog.daraw.cn/2017/03/23/goodbye-duoshuo/</id>
+    <link href="https://zsonego.github.io/2017/03/23/goodbye-duoshuo/"/>
+    <id>https://zsonego.github.io/2017/03/23/goodbye-duoshuo/</id>
     <published>2017-03-23T12:01:15.000Z</published>
     <updated>2022-11-25T22:48:43.703Z</updated>
     
@@ -309,14 +285,14 @@
     
     
     
-      <category term="多说" scheme="https://blog.daraw.cn/tags/%E5%A4%9A%E8%AF%B4/"/>
+      <category term="多说" scheme="https://zsonego.github.io/tags/%E5%A4%9A%E8%AF%B4/"/>
     
   </entry>
   
   <entry>
     <title>《你不知道的JS上卷》阅读小记之setTimeout的this指向问题</title>
-    <link href="https://blog.daraw.cn/2017/02/19/notes-about-you-dont-know-js-settimeout-this/"/>
-    <id>https://blog.daraw.cn/2017/02/19/notes-about-you-dont-know-js-settimeout-this/</id>
+    <link href="https://zsonego.github.io/2017/02/19/notes-about-you-dont-know-js-settimeout-this/"/>
+    <id>https://zsonego.github.io/2017/02/19/notes-about-you-dont-know-js-settimeout-this/</id>
     <published>2017-02-19T02:10:05.000Z</published>
     <updated>2022-11-25T22:48:43.708Z</updated>
     
@@ -329,17 +305,17 @@
     </summary>
     
     
-      <category term="JavaScript" scheme="https://blog.daraw.cn/categories/JavaScript/"/>
+      <category term="JavaScript" scheme="https://zsonego.github.io/categories/JavaScript/"/>
     
     
-      <category term="JavaScript" scheme="https://blog.daraw.cn/tags/JavaScript/"/>
+      <category term="JavaScript" scheme="https://zsonego.github.io/tags/JavaScript/"/>
     
   </entry>
   
   <entry>
     <title>ES6实现内部类的写法</title>
-    <link href="https://blog.daraw.cn/2017/01/17/es6-static-class/"/>
-    <id>https://blog.daraw.cn/2017/01/17/es6-static-class/</id>
+    <link href="https://zsonego.github.io/2017/01/17/es6-static-class/"/>
+    <id>https://zsonego.github.io/2017/01/17/es6-static-class/</id>
     <published>2017-01-17T08:55:15.000Z</published>
     <updated>2022-11-25T22:48:43.699Z</updated>
     
@@ -352,21 +328,21 @@
     </summary>
     
     
-      <category term="前端" scheme="https://blog.daraw.cn/categories/%E5%89%8D%E7%AB%AF/"/>
+      <category term="前端" scheme="https://zsonego.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
     
-      <category term="ES6" scheme="https://blog.daraw.cn/categories/%E5%89%8D%E7%AB%AF/ES6/"/>
+      <category term="ES6" scheme="https://zsonego.github.io/categories/%E5%89%8D%E7%AB%AF/ES6/"/>
     
     
-      <category term="ES6" scheme="https://blog.daraw.cn/tags/ES6/"/>
+      <category term="ES6" scheme="https://zsonego.github.io/tags/ES6/"/>
     
-      <category term="Class" scheme="https://blog.daraw.cn/tags/Class/"/>
+      <category term="Class" scheme="https://zsonego.github.io/tags/Class/"/>
     
   </entry>
   
   <entry>
     <title>IntelliJ IDEA在Linux下字体不正常解决方案</title>
-    <link href="https://blog.daraw.cn/2016/11/24/intellij-idea-ugly-font-linux/"/>
-    <id>https://blog.daraw.cn/2016/11/24/intellij-idea-ugly-font-linux/</id>
+    <link href="https://zsonego.github.io/2016/11/24/intellij-idea-ugly-font-linux/"/>
+    <id>https://zsonego.github.io/2016/11/24/intellij-idea-ugly-font-linux/</id>
     <published>2016-11-24T12:34:15.000Z</published>
     <updated>2022-11-25T22:48:43.704Z</updated>
     
@@ -379,19 +355,19 @@
     </summary>
     
     
-      <category term="Linux" scheme="https://blog.daraw.cn/categories/Linux/"/>
+      <category term="Linux" scheme="https://zsonego.github.io/categories/Linux/"/>
     
     
-      <category term="Intellij IDEA" scheme="https://blog.daraw.cn/tags/Intellij-IDEA/"/>
+      <category term="Intellij IDEA" scheme="https://zsonego.github.io/tags/Intellij-IDEA/"/>
     
-      <category term="Linux" scheme="https://blog.daraw.cn/tags/Linux/"/>
+      <category term="Linux" scheme="https://zsonego.github.io/tags/Linux/"/>
     
   </entry>
   
   <entry>
     <title>node-thunkify源码阅读笔记</title>
-    <link href="https://blog.daraw.cn/2016/11/11/notes-about-node-thunkify/"/>
-    <id>https://blog.daraw.cn/2016/11/11/notes-about-node-thunkify/</id>
+    <link href="https://zsonego.github.io/2016/11/11/notes-about-node-thunkify/"/>
+    <id>https://zsonego.github.io/2016/11/11/notes-about-node-thunkify/</id>
     <published>2016-11-11T08:00:15.000Z</published>
     <updated>2022-11-25T22:48:43.707Z</updated>
     
@@ -406,17 +382,17 @@
     </summary>
     
     
-      <category term="JavaScript" scheme="https://blog.daraw.cn/categories/JavaScript/"/>
+      <category term="JavaScript" scheme="https://zsonego.github.io/categories/JavaScript/"/>
     
     
-      <category term="thunkify" scheme="https://blog.daraw.cn/tags/thunkify/"/>
+      <category term="thunkify" scheme="https://zsonego.github.io/tags/thunkify/"/>
     
   </entry>
   
   <entry>
     <title>如何监听JS变量的变化</title>
-    <link href="https://blog.daraw.cn/2016/08/17/how-to-monitor-changes-of-js-variable/"/>
-    <id>https://blog.daraw.cn/2016/08/17/how-to-monitor-changes-of-js-variable/</id>
+    <link href="https://zsonego.github.io/2016/08/17/how-to-monitor-changes-of-js-variable/"/>
+    <id>https://zsonego.github.io/2016/08/17/how-to-monitor-changes-of-js-variable/</id>
     <published>2016-08-17T05:48:39.000Z</published>
     <updated>2022-11-25T22:48:43.704Z</updated>
     
@@ -434,21 +410,21 @@
     </summary>
     
     
-      <category term="JavaScript" scheme="https://blog.daraw.cn/categories/JavaScript/"/>
+      <category term="JavaScript" scheme="https://zsonego.github.io/categories/JavaScript/"/>
     
     
-      <category term="JavaScript" scheme="https://blog.daraw.cn/tags/JavaScript/"/>
+      <category term="JavaScript" scheme="https://zsonego.github.io/tags/JavaScript/"/>
     
-      <category term="Proxy" scheme="https://blog.daraw.cn/tags/Proxy/"/>
+      <category term="Proxy" scheme="https://zsonego.github.io/tags/Proxy/"/>
     
-      <category term="脏值检测" scheme="https://blog.daraw.cn/tags/%E8%84%8F%E5%80%BC%E6%A3%80%E6%B5%8B/"/>
+      <category term="脏值检测" scheme="https://zsonego.github.io/tags/%E8%84%8F%E5%80%BC%E6%A3%80%E6%B5%8B/"/>
     
   </entry>
   
   <entry>
     <title>JS实现自定义事件</title>
-    <link href="https://blog.daraw.cn/2016/08/02/javascript-event-emitter/"/>
-    <id>https://blog.daraw.cn/2016/08/02/javascript-event-emitter/</id>
+    <link href="https://zsonego.github.io/2016/08/02/javascript-event-emitter/"/>
+    <id>https://zsonego.github.io/2016/08/02/javascript-event-emitter/</id>
     <published>2016-08-02T14:30:00.000Z</published>
     <updated>2022-11-25T22:48:43.705Z</updated>
     
@@ -463,17 +439,17 @@
     </summary>
     
     
-      <category term="JavaScript" scheme="https://blog.daraw.cn/categories/JavaScript/"/>
+      <category term="JavaScript" scheme="https://zsonego.github.io/categories/JavaScript/"/>
     
     
-      <category term="JavaScript" scheme="https://blog.daraw.cn/tags/JavaScript/"/>
+      <category term="JavaScript" scheme="https://zsonego.github.io/tags/JavaScript/"/>
     
   </entry>
   
   <entry>
     <title>制作列带有斑马条纹背景的表格</title>
-    <link href="https://blog.daraw.cn/2016/05/16/table-with-striped-lines/"/>
-    <id>https://blog.daraw.cn/2016/05/16/table-with-striped-lines/</id>
+    <link href="https://zsonego.github.io/2016/05/16/table-with-striped-lines/"/>
+    <id>https://zsonego.github.io/2016/05/16/table-with-striped-lines/</id>
     <published>2016-05-16T05:27:00.000Z</published>
     <updated>2022-11-25T22:48:43.710Z</updated>
     
@@ -486,17 +462,17 @@
     </summary>
     
     
-      <category term="前端" scheme="https://blog.daraw.cn/categories/%E5%89%8D%E7%AB%AF/"/>
+      <category term="前端" scheme="https://zsonego.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="css" scheme="https://blog.daraw.cn/tags/css/"/>
+      <category term="css" scheme="https://zsonego.github.io/tags/css/"/>
     
   </entry>
   
   <entry>
     <title>git用户名莫名其妙变化及挽救措施</title>
-    <link href="https://blog.daraw.cn/2016/04/22/git-commit-name-change/"/>
-    <id>https://blog.daraw.cn/2016/04/22/git-commit-name-change/</id>
+    <link href="https://zsonego.github.io/2016/04/22/git-commit-name-change/"/>
+    <id>https://zsonego.github.io/2016/04/22/git-commit-name-change/</id>
     <published>2016-04-22T01:59:00.000Z</published>
     <updated>2022-11-25T22:48:43.701Z</updated>
     
@@ -509,17 +485,17 @@
     </summary>
     
     
-      <category term="git" scheme="https://blog.daraw.cn/categories/git/"/>
+      <category term="git" scheme="https://zsonego.github.io/categories/git/"/>
     
     
-      <category term="git" scheme="https://blog.daraw.cn/tags/git/"/>
+      <category term="git" scheme="https://zsonego.github.io/tags/git/"/>
     
   </entry>
   
   <entry>
     <title>记一次前端性能优化实战</title>
-    <link href="https://blog.daraw.cn/2016/03/03/note-for-optimization-of-online-shop/"/>
-    <id>https://blog.daraw.cn/2016/03/03/note-for-optimization-of-online-shop/</id>
+    <link href="https://zsonego.github.io/2016/03/03/note-for-optimization-of-online-shop/"/>
+    <id>https://zsonego.github.io/2016/03/03/note-for-optimization-of-online-shop/</id>
     <published>2016-03-02T16:00:00.000Z</published>
     <updated>2022-11-25T22:48:43.706Z</updated>
     
@@ -532,12 +508,40 @@
     </summary>
     
     
-      <category term="前端" scheme="https://blog.daraw.cn/categories/%E5%89%8D%E7%AB%AF/"/>
+      <category term="前端" scheme="https://zsonego.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="gulp" scheme="https://blog.daraw.cn/tags/gulp/"/>
+      <category term="gulp" scheme="https://zsonego.github.io/tags/gulp/"/>
     
-      <category term="性能优化" scheme="https://blog.daraw.cn/tags/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/"/>
+      <category term="性能优化" scheme="https://zsonego.github.io/tags/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>将setTimeout函数队列</title>
+    <link href="https://zsonego.github.io/2016/02/12/queue-several-functions-set-by-timeout/"/>
+    <id>https://zsonego.github.io/2016/02/12/queue-several-functions-set-by-timeout/</id>
+    <published>2016-02-12T06:36:41.000Z</published>
+    <updated>2022-11-25T22:48:43.709Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p>先来看一段代码：</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">setTimeout(<span class="function"><span class="keyword">function</span>(<span class="params"></span>) </span>&#123;</span><br><span class="line">    <span class="built_in">console</span>.log(<span class="string">'3000ms'</span>);</span><br><span class="line">&#125;, <span class="number">3000</span>);</span><br><span class="line"></span><br><span class="line"><span class="built_in">console</span>.log(<span class="string">'first'</span>);</span><br><span class="line"></span><br><span class="line">setTimeout(<span class="function"><span class="keyword">function</span>(<span class="params"></span>) </span>&#123;</span><br><span class="line">    <span class="built_in">console</span>.log(<span class="string">'1000ms'</span>);</span><br><span class="line">&#125;, <span class="number">1000</span>);</span><br><span class="line"></span><br><span class="line"><span class="built_in">console</span>.log(<span class="string">'second'</span>);</span><br></pre></td></tr></table></figure><p>控制台输出为：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">first</span><br><span class="line">second</span><br><span class="line">1000ms</span><br><span class="line">3000ms</span><br></pre></td></tr></table></figure><p>如果我们想让第一个定时器的回调函数执行完再执行第二个定时器的回调函数该怎么做呢？</p><a id="more"></a><h2 id="分析"><a href="#分析" class="headerlink" title="分析"></a>分析</h2><p>JavaScript一开始作为浏览器脚本语言出现，为了避免多线程带来的管理问题，被设计成了单线程，即使是Node.js中的<code>cluster</code>以及Web Worker也并没有改变JS单线程的本质。<br>单线程意味着阻塞，所有的任务要排队执行，前一个任务未执行完下一个任务是不会执行的。如果有一个任务耗时很长，那么后面的任务也只有干等着。为了解决这个问题，JS内部还有一个消息队列，并采用EventLoop来处理消息队列中的消息。<br>在上述栗子中，<code>setTimeout</code>会在指定的时间向消息队列中添加一条消息，在消息得到处理的时候也就是回调函数执行的时候，而主线程中的<code>console.log</code>不会等待，所以上述栗子中先按顺序执行了两个<code>console.log</code>，然后才按照定时分别执行1000ms和3000ms时的回调函数。<br>关于JS的单线程的问题这里不做更多解释，想了解更多的话可以看看下面参考中的阮一峰老师的<a href="http://javascript.ruanyifeng.com/bom/engine.html" target="_blank" rel="noopener">浏览器的JavaScript引擎</a>，讲的非常易懂。  </p><p>那么上述问题中的需求就是说，如何做到在第一个定时器的回调函数执行后，第二个定时器才开始定时并等待执行回调函数。<br>最容易想到了方法就是回调函数。封装定时器，在回调中执行下一个封装函数，但这会导致一个问题，在稍微复杂的情况下，出现“回调地狱”，相信Node.js党应该对回调有着别样的感情。<br>So，回调函数并不是一个cool的解决方案。  </p><p>这里的另一个思路就是再构造一个函数队列，封装定时器，给定时器加锁，将其锁在一个函数里，只有确认执行结束才会执行队列中的下一个封装的定时器。  </p><h2 id="方案"><a href="#方案" class="headerlink" title="方案"></a>方案</h2><p>在StackOverflow上有个哥们提了个和我一样的问题，其中一个答案给了一个demo，我这里简化了一下：</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">recursiveOne</span>(<span class="params">arg1</span>)</span>&#123;</span><br><span class="line">    <span class="keyword">if</span>(arg1)&#123;</span><br><span class="line">        arg1 = <span class="literal">false</span>;</span><br><span class="line">        setTimeout(<span class="function"><span class="keyword">function</span>(<span class="params"></span>)</span>&#123;recursiveOne(arg1);&#125;, <span class="number">3000</span>);</span><br><span class="line">    &#125;<span class="keyword">else</span>&#123;</span><br><span class="line">        <span class="built_in">console</span>.log(<span class="string">"func1 complete"</span>);</span><br><span class="line">        coreFunction();</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">recursiveTwo</span>(<span class="params">arg1</span>)</span>&#123;</span><br><span class="line"><span class="keyword">if</span>(arg1)&#123;</span><br><span class="line">        arg1 = <span class="literal">false</span>;</span><br><span class="line">        setTimeout(<span class="function"><span class="keyword">function</span>(<span class="params"></span>)</span>&#123;recursiveTwo(arg1);&#125;, <span class="number">2000</span>);</span><br><span class="line">    &#125;<span class="keyword">else</span>&#123;</span><br><span class="line">        <span class="built_in">console</span>.log(<span class="string">"func2 complete"</span>);</span><br><span class="line">        coreFunction();</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">recursiveThree</span>(<span class="params">arg1</span>)</span>&#123;</span><br><span class="line">        <span class="keyword">if</span>(arg1)&#123;</span><br><span class="line">        arg1 = <span class="literal">false</span>;</span><br><span class="line">        setTimeout(<span class="function"><span class="keyword">function</span>(<span class="params"></span>)</span>&#123;recursiveThree(arg1);&#125;, <span class="number">1000</span>);</span><br><span class="line">    &#125;<span class="keyword">else</span>&#123;</span><br><span class="line">        <span class="built_in">console</span>.log(<span class="string">"func3 complete"</span>);</span><br><span class="line">        coreFunction();</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">var</span> funcSet = [recursiveOne, recursiveTwo, recursiveThree];</span><br><span class="line"><span class="keyword">var</span> funcArgs = [[<span class="literal">true</span>], [<span class="literal">true</span>], [<span class="literal">true</span>]];</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">coreFunction</span>(<span class="params"></span>)</span>&#123;</span><br><span class="line">    <span class="keyword">if</span>(funcSet.length)&#123;</span><br><span class="line">        <span class="keyword">var</span> func = funcSet.shift();</span><br><span class="line">        func.apply(global, funcArgs.shift())</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line">coreFunction();</span><br></pre></td></tr></table></figure><p>免去了层层回调，优雅的解决的问题：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">fun1 complete</span><br><span class="line">fun2 complete</span><br><span class="line">fun3 complete</span><br></pre></td></tr></table></figure><p>那么在实际开发环境如何可控的操作执行队列和锁呢？<br>构造一个入队函数，和出队执行函数：</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> funcSet = [],</span><br><span class="line">    funcArgs = [],</span><br><span class="line">    funcCont = [],</span><br><span class="line">    isRunning = <span class="literal">false</span>;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">enQueue</span>(<span class="params">fn, context, args</span>) </span>&#123;</span><br><span class="line">    funcSet.push(fn);</span><br><span class="line">    funcCont.push(context);</span><br><span class="line">    funcArgs.push(args);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">if</span> (!isRunning) &#123;</span><br><span class="line">        isRunning = <span class="literal">true</span>;</span><br><span class="line">        coreFunction();</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">coreFunction</span>(<span class="params"></span>)</span>&#123;</span><br><span class="line">    <span class="keyword">if</span>(funcSet.length)&#123;</span><br><span class="line">        funcSet.shift().apply(funcCont.shift(), [].concat(funcArgs.shift()));</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>完整的代码实现如下：</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">recursiveOne</span>(<span class="params">arg1</span>)</span>&#123;</span><br><span class="line">    <span class="keyword">if</span>(arg1)&#123;</span><br><span class="line">        arg1 = <span class="literal">false</span>;</span><br><span class="line">        setTimeout(<span class="function"><span class="keyword">function</span>(<span class="params"></span>)</span>&#123;recursiveOne(arg1);&#125;, <span class="number">3000</span>);</span><br><span class="line">    &#125;<span class="keyword">else</span>&#123;</span><br><span class="line">        <span class="built_in">console</span>.log(<span class="string">"func1 complete"</span>);</span><br><span class="line">        coreFunction();</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">recursiveTwo</span>(<span class="params">arg1</span>)</span>&#123;</span><br><span class="line">    <span class="keyword">if</span>(arg1)&#123;</span><br><span class="line">        arg1 = <span class="literal">false</span>;</span><br><span class="line">        setTimeout(<span class="function"><span class="keyword">function</span>(<span class="params"></span>)</span>&#123;recursiveTwo(arg1);&#125;, <span class="number">2000</span>);</span><br><span class="line">    &#125;<span class="keyword">else</span>&#123;</span><br><span class="line">        <span class="built_in">console</span>.log(<span class="string">"func2 complete"</span>);</span><br><span class="line">        coreFunction();</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">recursiveThree</span>(<span class="params">arg1</span>)</span>&#123;</span><br><span class="line">        <span class="keyword">if</span>(arg1)&#123;</span><br><span class="line">        arg1 = <span class="literal">false</span>;</span><br><span class="line">        setTimeout(<span class="function"><span class="keyword">function</span>(<span class="params"></span>)</span>&#123;recursiveThree(arg1);&#125;, <span class="number">1000</span>);</span><br><span class="line">    &#125;<span class="keyword">else</span>&#123;</span><br><span class="line">        <span class="built_in">console</span>.log(<span class="string">"func3 complete"</span>);</span><br><span class="line">        coreFunction();</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">var</span> funcSet = [],</span><br><span class="line">    funcArgs = [],</span><br><span class="line">    funcCont = [],</span><br><span class="line">    isRunning = <span class="literal">false</span>;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">enQueue</span>(<span class="params">fn, context, args</span>) </span>&#123;</span><br><span class="line">    funcSet.push(fn);</span><br><span class="line">    funcCont.push(context);</span><br><span class="line">    funcArgs.push(args);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">if</span> (!isRunning) &#123;</span><br><span class="line">        isRunning = <span class="literal">true</span>;</span><br><span class="line">        coreFunction();</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">coreFunction</span>(<span class="params"></span>)</span>&#123;</span><br><span class="line"><span class="keyword">if</span>(funcSet.length)&#123;</span><br><span class="line">        funcSet.shift().apply(funcCont.shift(), [].concat(funcArgs.shift()));</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">enQueue(recursiveOne, <span class="keyword">this</span>, <span class="literal">true</span>);</span><br><span class="line">enQueue(recursiveTwo, <span class="keyword">this</span>, <span class="literal">true</span>);</span><br><span class="line">enQueue(recursiveThree, <span class="keyword">this</span>, <span class="literal">true</span>);</span><br></pre></td></tr></table></figure><h2 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h2><ul><li><a href="http://javascript.ruanyifeng.com/bom/engine.html" target="_blank" rel="noopener">浏览器的JavaScript引擎</a>  </li><li><a href="http://stackoverflow.com/questions/12839488/how-to-queue-several-functions-set-by-settimeout-with-js-jquery" target="_blank" rel="noopener">How to queue several functions set by setTimeout with JS/jQuery</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot; title=&quot;问题&quot;&gt;&lt;/a&gt;问题&lt;/h2&gt;&lt;p&gt;先来看一段代码：&lt;/p&gt;
+&lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;11&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;setTimeout(&lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;function&lt;/span&gt;(&lt;span class=&quot;params&quot;&gt;&lt;/span&gt;) &lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &lt;span class=&quot;built_in&quot;&gt;console&lt;/span&gt;.log(&lt;span class=&quot;string&quot;&gt;&#39;3000ms&#39;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;, &lt;span class=&quot;number&quot;&gt;3000&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;built_in&quot;&gt;console&lt;/span&gt;.log(&lt;span class=&quot;string&quot;&gt;&#39;first&#39;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;setTimeout(&lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;function&lt;/span&gt;(&lt;span class=&quot;params&quot;&gt;&lt;/span&gt;) &lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &lt;span class=&quot;built_in&quot;&gt;console&lt;/span&gt;.log(&lt;span class=&quot;string&quot;&gt;&#39;1000ms&#39;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;, &lt;span class=&quot;number&quot;&gt;1000&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;built_in&quot;&gt;console&lt;/span&gt;.log(&lt;span class=&quot;string&quot;&gt;&#39;second&#39;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;控制台输出为：&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;first&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;second&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;1000ms&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3000ms&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;如果我们想让第一个定时器的回调函数执行完再执行第二个定时器的回调函数该怎么做呢？&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="JavaScript" scheme="https://zsonego.github.io/categories/JavaScript/"/>
+    
+    
+      <category term="JavaScript" scheme="https://zsonego.github.io/tags/JavaScript/"/>
     
   </entry>
   
